@@ -23,7 +23,7 @@ title: "An Artificial Towards an Optimized Staging System for Pancreatic Ductal
   Adenocarcinoma: A Clinically Interpretable, Artificial Intelligence-Based
   Model"
 doi: 10.1200/CCI.21.00001
-featured: true
+featured: false
 tags: []
 projects: []
 image:
@@ -32,7 +32,7 @@ image:
   preview_only: false
 date: 2022-07-04T20:05:46.540Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
