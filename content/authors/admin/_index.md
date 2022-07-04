@@ -13,7 +13,7 @@ social:
     link: midsumer@mit.edu
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=lkP7MqAAAAAJ&hl=en&oi=sra
   - icon: github
     icon_pack: fab
     link: https://github.com/yuma-sudo
