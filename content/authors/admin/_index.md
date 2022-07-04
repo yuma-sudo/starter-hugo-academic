@@ -3,7 +3,7 @@ title: Yu Ma
 role: Ph.D Candidate at MIT Operations Research
 bio: "My research interests include healthcare, machine learning and optimization. "
 interests:
-  - MachineLearning
+  - Machine Learning
 social:
   - icon: envelope
     icon_pack: fas
