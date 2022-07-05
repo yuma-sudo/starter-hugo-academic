@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto: midsumer@mit.edu
+    link: mailto:midsumer@mit.edu
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=lkP7MqAAAAAJ&hl=en&oi=sra
