@@ -36,5 +36,3 @@ superuser: true
 highlight_name: true
 ---
 Hi there! I'm currently a 3rd year PhD student at the MIT Operations Research Center, advised by Professor Dimitris Bertsimas. My research focuses on the use of machine learning and optimization to solve challenges in healthcare systems. I developed prescriptive methods for oncology prevention and treatments, integrated pipelines for multi-modal clinical data fusion, as well as predictive methods for radiology, oncology, and trauma predictions.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
