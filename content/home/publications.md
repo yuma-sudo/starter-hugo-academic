@@ -32,7 +32,7 @@ content:
   order: desc
   archive:
     enable: true
-    text: See all blog posts
+    text: See all publications
     link: publication/
 design:
   # Choose a view for the listings:
