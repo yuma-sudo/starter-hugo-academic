@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Dimitris Bertsimas
   - Kimberly Villalobos Carballo
-  - **Yu Ma**
+  - '**Yu Ma**'
   - Liangyuan Na
   - Léonard Boussioux
   - Cynthia Zeng
