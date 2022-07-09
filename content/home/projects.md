@@ -27,16 +27,14 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
     - name: Healthcare
       tag: Healthcare
     - name: Machine Learning
       tag: Machine Learning
-    - name: NLP
-      tag: NLP
     - name: Optimization
       tag: Optimization
+    - name: Prescriptive Analytics
+      tag: Prescriptive Analytics
   count: 3
   offset: 0
   order: desc
