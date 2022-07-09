@@ -5,7 +5,7 @@ publication_types:
   - "3"
 authors:
   - Léonard Boussioux
-  - Yu Ma
+  - **Yu Ma**
   - Nancy Thomas
   - Dimitris Bertsimas
   - Nadya Shusharina
