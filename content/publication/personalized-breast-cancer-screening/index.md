@@ -4,7 +4,7 @@ publication_types:
   - "3"
 authors:
   - Dimitris Bertsimas
-  - **Yu Ma**
+  - '**Yu Ma**'
   - Omid Nohadani
   - Olga Kyriazi
 publication: Submitted to Health Care Management Science
