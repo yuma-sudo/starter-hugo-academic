@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Anthony Gebran
   - Jesus Alfonso Juarez Palazuelos
-  - **Yu Ma**
+  - '**Yu Ma**'
   - Brian D'Amore
   - Ander Dorken Gallastegi
   - Mary Bokenkamp
