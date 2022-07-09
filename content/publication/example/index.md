@@ -19,7 +19,7 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: "An Artificial Towards an Optimized Staging System for Pancreatic Ductal
+title: "Towards an Optimized Staging System for Pancreatic Ductal
   Adenocarcinoma: A Clinically Interpretable, Artificial Intelligence-Based
   Model"
 doi: 10.1200/CCI.21.00001
