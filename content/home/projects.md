@@ -37,6 +37,13 @@ content:
       tag: NLP
     - name: Optimization
       tag: Optimization
+  count: 3
+  offset: 0
+  order: desc
+  archive:
+    enable: true
+    text: See all projects
+    link: project/
 
 
 design:
