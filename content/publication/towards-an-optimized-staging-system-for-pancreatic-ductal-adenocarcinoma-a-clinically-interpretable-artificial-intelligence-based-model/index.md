@@ -9,7 +9,7 @@ publication: Journal of Clinical Oncology Clinical Cancer Informatics
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2022-07-09T04:19:05.004Z
