@@ -4,7 +4,7 @@ date: 2022-07-09T05:15:32.406Z
 draft: false
 featured: false
 tags:
-  - Optimizatio
+  - Optimization
 image:
   filename: ""
   focal_point: Smart
