@@ -5,7 +5,7 @@ publication_types:
   - "3"
 authors:
   - Luis R. Soenksen
-  - **Yu Ma**
+  - '**Yu Ma**'
   - Cynthia Zeng
   - Leonard D.J. Boussioux
   - Kimberly Villalobos Carballo
