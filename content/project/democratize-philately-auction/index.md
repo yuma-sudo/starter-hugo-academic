@@ -6,7 +6,7 @@ featured: false
 tags:
   - Machine Learning
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 ---
