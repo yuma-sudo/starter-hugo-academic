@@ -15,7 +15,7 @@ authors:
   - Jack Qian
   - Thomas Bortfeld
 author_notes:
-  - "*equal contribution"
+  - "* equal contribution"
 publication: Submitted to International Journal of Radiation Oncology, Biology, Physics
 draft: false
 featured: false
