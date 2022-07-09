@@ -3,6 +3,9 @@ title: Rapid Response Team Dispatch
 date: 2022-07-09T04:59:42.497Z
 draft: false
 featured: false
+tags:
+  - Healthcare
+  - Machine Learning
 image:
   filename: ""
   focal_point: Smart
