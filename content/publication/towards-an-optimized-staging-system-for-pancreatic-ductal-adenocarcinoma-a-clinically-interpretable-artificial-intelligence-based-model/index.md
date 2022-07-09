@@ -10,7 +10,7 @@ authors:
   - Yifei Huang
   - Nikolaos Andreatos
   - Holly Wiberg
-  - **Yu Ma** et al
+  - "**Yu Ma** et al"
 doi: 10.1200/CCI.21.00001
 publication: Journal of Clinical Oncology Clinical Cancer Informatics
 draft: false
