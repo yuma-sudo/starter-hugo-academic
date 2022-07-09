@@ -8,7 +8,7 @@ authors:
   - Georgios Antonios Margonis
   - Suleeporn Sujichantararat
   - Thomas Boerner
-  - **Yu Ma** et al
+  - '**Yu Ma**' et al
 doi: 10.1001/jamasurg.2022.1819
 publication: JAMA Surgery
 draft: false
