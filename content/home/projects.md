@@ -35,6 +35,8 @@ content:
       tag: Machine Learning
     - name: Optimization
       tag: Optimization
+    - name: NLP
+      tag: NLP
       
 
 design:
