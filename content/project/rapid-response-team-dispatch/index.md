@@ -8,7 +8,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-
-
-* Collaborate with Hartford Hospital to predict the risk of redcap incidents across hospitals for rapid response team dispath
-* Use BioBERT as well as SHAP to process and analyze EHR as well as notes data
+Collaborate with Hartford Hospital to predict the risk of redcap incidents across hospitals for rapid response team dispatch
