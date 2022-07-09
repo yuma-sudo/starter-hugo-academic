@@ -5,7 +5,7 @@ publication_types:
   - "3"
 authors:
   - Mary Bokenkamp
-  - **Yu Ma**
+  - '**Yu Ma**'
   - Ander Dorken Gallastegi
   - Anthony Gebran
   - George C. Velmahos
