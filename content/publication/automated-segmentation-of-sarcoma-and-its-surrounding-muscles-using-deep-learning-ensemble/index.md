@@ -4,8 +4,8 @@ title: Automated Segmentation of Sarcoma and Its Surrounding Muscles Using Deep
 publication_types:
   - "3"
 authors:
-  - Léonard Boussioux*
-  - Yu Ma*
+  - Léonard Boussioux
+  - Yu Ma
   - Nancy Thomas
   - Dimitris Bertsimas
   - Nadya Shusharina
@@ -15,7 +15,7 @@ authors:
   - Jack Qian
   - Thomas Bortfeld
 author_notes:
-  - "* equal contribution"
+  - Leonard and Yu have equal contribution
 publication: Submitted to International Journal of Radiation Oncology, Biology, Physics
 draft: false
 featured: false
