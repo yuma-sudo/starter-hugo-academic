@@ -1,7 +1,7 @@
 ---
 widget: blank
 headless: true
-weight: 80
+weight: 100
   title: Honors & Awards
 design:
   columns: '2'
