@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/yuma-sudo/yuma-sudo.github.io.git
+	branch = master
