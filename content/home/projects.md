@@ -35,7 +35,7 @@ content:
       tag: Optimization
     - name: Prescriptive Analytics
       tag: Prescriptive Analytics
-  count: 3
+  count: 0
   offset: 0
   order: desc
   archive:
