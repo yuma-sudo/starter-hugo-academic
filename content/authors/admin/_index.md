@@ -5,8 +5,11 @@ avatar_filename: avatar.jpg
 bio: "My research interests include healthcare, machine learning and optimization. "
 interests:
   - Healthcare
+  - Deep Learning
   - Machine Learning
+  - Natural Language Processing
   - Optimization
+  - Prescriptive Analytics
 social:
   - icon: envelope
     icon_pack: fas
