@@ -1,9 +1,8 @@
-
 ---
 widget: blank
 headless: true
 weight: 100
-title: Honors and Awards
+title: Teaching Experience
 design:
   columns: '2'
 ---
