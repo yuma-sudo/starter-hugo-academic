@@ -38,4 +38,4 @@ email: midsumer@mit.edu
 superuser: true
 highlight_name: true
 ---
-Hi there! I'm currently a 3rd year PhD student at the [MIT Operations Research Center](https://orc.mit.edu/), advised by Professor [Dimitris Bertsimas](https://mitsloan.mit.edu/faculty/directory/dimitris-bertsimas). My research focuses on the use of machine learning and optimization to solve challenges in healthcare systems. I developed prescriptive methods for oncology prevention and treatments, integrated pipelines for multi-modal clinical data fusion, as well as predictive methods for radiology, oncology, and trauma predictions.
+Hi there! I'm currently a 3rd year PhD student at the [MIT Operations Research Center](https://orc.mit.edu/), advised by Professor [Dimitris Bertsimas](https://mitsloan.mit.edu/faculty/directory/dimitris-bertsimas). My research focuses on the use of machine learning and optimization to solve challenges in healthcare systems. I developed prescriptive methods for oncology prevention and treatment, integrated pipelines for multi-modal clinical data fusion, as well as predictive methods for radiology, oncology, and trauma predictions.
