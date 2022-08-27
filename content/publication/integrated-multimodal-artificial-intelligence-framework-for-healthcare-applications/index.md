@@ -2,7 +2,8 @@
 title: Integrated multimodal artificial intelligence framework for healthcare
   applications
 publication_types:
-  - "3"
+  - "2"
+publication: Accepted to Nature npj Digital Medicine
 authors:
   - Luis R. Soenksen
   - '**Yu Ma**'
